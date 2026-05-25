@@ -7,7 +7,6 @@ Group: PG Group 3
 Repository name: s4230379_s4233176_PG_Group_3
 GitHub repository URL: [INSERT FINAL GITHUB REPOSITORY URL]
 Repository visibility: [SELECT PUBLIC OR PRIVATE]
-Access verified on: [INSERT DATE AFTER REPOSITORY ACCESS IS VERIFIED]
 
 Access instructions:
 1. Open the GitHub repository URL listed above.
@@ -17,14 +16,6 @@ Access instructions:
    submitted NLP/text and network-edge schemas. Full raw and processed datasets
    are deliberately excluded from the repository.
 4. Follow README.md for file order, required packages, inputs, and outputs.
-
-Required access notes:
-- If public: [CONFIRM THE LINK OPENS WITHOUT SIGN-IN, IF REQUIRED BY CANVAS].
-- If private: [ADD THE TEACHING TEAM AS COLLABORATORS OR PROVIDE ACCESS IN
-  ACCORDANCE WITH THE CANVAS SUBMISSION INSTRUCTIONS BEFORE THE DEADLINE].
-- Any additional Canvas access instruction followed: [INSERT DETAILS OR N/A].
-
-Contact details for access issues: [INSERT CONTACT NAME AND RMIT EMAIL IF REQUIRED]
 
 Credential and privacy confirmation:
 No API keys, access tokens, passwords, private credentials, local .env files, or
