@@ -1,0 +1,23 @@
+pandas
+numpy
+scipy
+scikit-learn
+networkx
+python-louvain
+matplotlib
+seaborn
+nltk
+vaderSentiment
+langdetect
+emoji
+wordcloud
+requests
+python-dotenv
+google-api-python-client
+tqdm
+jupyter
+ipykernel
+
+# Optional heavy dependencies for transformer sentiment in notebook 05.
+torch
+transformers

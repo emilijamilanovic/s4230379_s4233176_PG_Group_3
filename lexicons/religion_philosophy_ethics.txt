@@ -1,0 +1,16 @@
+religion
+religious
+ethic
+ethics
+morality
+moral
+philosophy
+theology
+islam
+shia
+sunni
+muslim
+christian
+judaism
+jewish
+faith

@@ -1,0 +1,33 @@
+COSC2671 Social Media and Network Analysis - Assignment 2
+Access Demonstration Record
+
+Team members: Matteo Omizzolo (s4230379); Emilija Milanovic (s4233176)
+Group: PG Group 3
+
+Repository name: s4230379_s4233176_PG_Group_3
+GitHub repository URL: [INSERT FINAL GITHUB REPOSITORY URL]
+Repository visibility: [SELECT PUBLIC OR PRIVATE]
+Access verified on: [INSERT DATE AFTER REPOSITORY ACCESS IS VERIFIED]
+
+Access instructions:
+1. Open the GitHub repository URL listed above.
+2. Confirm access to the repository root, README.md, notebooks/, src/, lexicons/,
+   data/sample/, and the required assignment PDF/TXT files.
+3. The representative sample in data/sample/ is sufficient to inspect the
+   submitted NLP/text and network-edge schemas. Full raw and processed datasets
+   are deliberately excluded from the repository.
+4. Follow README.md for file order, required packages, inputs, and outputs.
+
+Required access notes:
+- If public: [CONFIRM THE LINK OPENS WITHOUT SIGN-IN, IF REQUIRED BY CANVAS].
+- If private: [ADD THE TEACHING TEAM AS COLLABORATORS OR PROVIDE ACCESS IN
+  ACCORDANCE WITH THE CANVAS SUBMISSION INSTRUCTIONS BEFORE THE DEADLINE].
+- Any additional Canvas access instruction followed: [INSERT DETAILS OR N/A].
+
+Contact details for access issues: [INSERT CONTACT NAME AND RMIT EMAIL IF REQUIRED]
+
+Credential and privacy confirmation:
+No API keys, access tokens, passwords, private credentials, local .env files, or
+raw account-identifying datasets are included in this repository. The submitted
+representative sample uses hashed author identifiers and contains only the
+limited fields required to demonstrate the analysis structure.

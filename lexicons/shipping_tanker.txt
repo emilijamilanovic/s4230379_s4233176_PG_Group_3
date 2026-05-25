@@ -1,0 +1,14 @@
+tanker
+tankers
+ship
+ships
+shipping
+chokepoint
+insurance
+freight
+vessel
+vessels
+maritime
+convoy
+escort
+fleet

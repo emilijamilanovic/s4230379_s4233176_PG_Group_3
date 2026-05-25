@@ -1,0 +1,46 @@
+# Python and notebook artefacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Virtual environments and local configuration
+.venv/
+venv/
+env/
+.env
+.env.*
+*.key
+*.pem
+
+# Editor and OS files
+.DS_Store
+.vscode/
+.idea/
+
+# Full/private data and generated analysis products
+data/raw/
+data/processed/
+data/interim/
+data/external/
+data/cache/
+plots/
+logs/
+working/
+
+# Large/generated serialization formats
+*.parquet
+*.pkl
+*.pickle
+*.joblib
+*.sqlite
+*.db
+*.log
+
+# Keep only the provided representative sample and required PDFs in Git.
+!data/sample/
+!data/sample/**
+!Report_*.pdf
+!Worksheet_*.pdf

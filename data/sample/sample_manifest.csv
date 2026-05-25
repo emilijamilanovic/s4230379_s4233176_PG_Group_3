@@ -1,0 +1,4 @@
+file,rows,purpose
+comments_nlp_community_sample.csv,500,"Anonymised comment-level sample with NLP, topic, sentiment, and community fields."
+reddit_reply_edges_sample.csv,500,Anonymised Reddit directed reply-edge sample.
+youtube_reply_edges_sample.csv,500,Anonymised Youtube directed reply-edge sample.
